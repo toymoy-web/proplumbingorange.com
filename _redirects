@@ -1,0 +1,2 @@
+# No redirects needed yet. Cloudflare Pages resolves clean URLs and
+# slug/index.html routing natively. Do not add .html rewrite rules here.
